@@ -36,5 +36,6 @@ int main()
 		printf("%d ", num[i]);
 	}
 	
+                printf("hello git!\n");
 	return 0;
 }
